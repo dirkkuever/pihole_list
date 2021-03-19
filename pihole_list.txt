@@ -1,0 +1,27 @@
+# Start des Projekts: 19.03.2021
+# Anzahl der derzeitigen Einträge: 0
+#
+# ________   ____  __.__________.____     
+# \______ \ |    |/ _|\______   \    |    
+#  |    |  \|      <   |     ___/    |    
+#  |    `   \    |  \  |    |   |    |___ 
+# /_______  /____|__ \ |____|   |_______ \
+#         \/        \/                  \/
+# Die Konsolidierte Pihole Liste        
+#
+#
+# Quellen:
+# https://hosts.oisd.nl/
+# https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# http://sysctl.org/cameleon/hosts
+# https://v.firebog.net/hosts/Easyprivacy.txt
+# https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+# https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+# https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+# https://v.firebog.net/hosts/AdguardDNS.txt
+# https://phishing.army/download/phishing_army_blocklist_extended.txt
+#
+# Weitere Quellen können jederzeit an dirk.kuever@gmail.com gemeldet werden
+#
+#
