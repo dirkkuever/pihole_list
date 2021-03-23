@@ -1,4 +1,8 @@
 # pihole_list
-A combination of blacklist domains
+Can be used as single file from:
+https://piholeserver.westeurope.cloudapp.azure.com/pihole_final.txt
 
-Die Datei pihole_list.txt hat an dieser Stelle noch keine Funktion
+It's a combined list from https://firebog.net/
+2.7 Mio entries
+
+The skript will be renewed soon, pihole_final.txt will be daily maintained.
