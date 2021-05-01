@@ -15,3 +15,4 @@ cat url_list.txt | while read url; do
      curl "$url" >> pihole_list_raw.txt;
 done
 sort -u pihole_list_raw.txt  > pihole_final.txt
+sudo cp pihole_final.txt /var/www/html
