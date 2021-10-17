@@ -16,3 +16,6 @@ cat url_list.txt | while read url; do
 done
 sort -u pihole_list_raw.txt  > pihole_final.txt
 sudo cp pihole_final.txt /var/www/html
+rm pihole_final.txt
+rm pihole_list_raw.txt
+echo "Verarbeitung angeschlossen...!"
