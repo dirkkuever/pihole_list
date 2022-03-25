@@ -10,7 +10,7 @@ rm pihole_list_raw.txt
 rm pihole_final.txt
 
 # Einlesen der URL Liste und in eine neue Liste zusammenfügen
-cat url_list.txt | while read url; do
+cat url_list_v3.txt | while read url; do
      echo "$url"
      curl "$url" >> pihole_list_raw.txt;
 done
